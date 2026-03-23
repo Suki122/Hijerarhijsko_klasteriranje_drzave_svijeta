@@ -5,13 +5,13 @@ Ovaj projekt bavi se primjenom hijerarhijskog (aglomerativnog) klasteriranja nad
 
 Uobičajene podjele država temelje se na geografiji (Europa, Azija, Afrika itd.), no takva klasifikacija često ne odražava stvarne razlike ili sličnosti u:
 
-životnom standardu
+	životnom standardu
 
-ekonomskoj razvijenosti
+	ekonomskoj razvijenosti
 
-demografskim trendovima
+	demografskim trendovima
 
-društvenim pokazateljima
+	društvenim pokazateljima
 
 Cilj ovog rada je korištenjem metoda strojnog učenja identificirati objektivne skupine država na temelju numeričkih pokazatelja razvoja.
 
